@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_inicio"
+        android:icon="@drawable/ic_inicio"
+        android:title="@string/inicio" />
+
+    <item
+        android:id="@+id/nav_registro"
+        android:icon="@drawable/ic_lista"
+        android:title="@string/registro" />
+
+    <item
+        android:id="@+id/nav_ayuda"
+        android:icon="@drawable/ic_ayuda"
+        android:title="@string/ayuda" />
+
+    <item
+        android:id="@+id/nav_configuracion"
+        android:icon="@drawable/ic_configuracion"
+        android:title="@string/configuracion" />
+
+    <item
+        android:id="@+id/nav_perfil"
+        android:icon="@drawable/ic_perfil"
+        android:title="@string/perfil" />
+</menu>
